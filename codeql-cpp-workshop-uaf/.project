@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>codeql-cpp-workshop-uaf</name>
+	<comment>CodeQL for Eclipse project</comment>
+	<projects/>
+	<buildSpec/>
+	<natures><nature>com.semmle.plugin.platform.ui.db.dbnature</nature></natures>
+</projectDescription>

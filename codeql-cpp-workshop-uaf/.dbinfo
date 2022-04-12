@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:dbinfo xmlns:ns2="https://semmle.com/schemas/dbinfo">
+    <sourceLocationPrefix>/home/kev/work/securitylab/CodeQL_Queries/cpp/Ekoparty2020/example</sourceLocationPrefix>
+    <unicodeNewlines>false</unicodeNewlines>
+    <columnKind>utf8</columnKind>
+</ns2:dbinfo>
